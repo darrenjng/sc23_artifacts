@@ -1,1 +1,1 @@
-# sc23_artifacts
+artifacts for SC23
